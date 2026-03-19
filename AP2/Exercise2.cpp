@@ -9,5 +9,9 @@ int main(){
     cout << "Let's go! Press the return key: ";
     cin >> ch;
     cout << "Enter a word containing three characters at most: ";
-    cin >>
+    cin >> word;
+
+    cout << "Your input: " << ch << " + " << word << endl;
+
+    return 0;
 }
