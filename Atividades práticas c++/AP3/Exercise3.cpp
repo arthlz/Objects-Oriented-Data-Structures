@@ -17,8 +17,6 @@ int main(){
         n1 -= 1;
     }
 
-    
-
 
     cout << "The factorial is " << n << endl;
 

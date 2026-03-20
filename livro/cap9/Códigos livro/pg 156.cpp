@@ -20,7 +20,7 @@ int main(){
 
     }
 
-    cout << line << '\n' << "your lines of text in reversed order: "
+    cout << line << '\n' << "your lines of text in reversed order is: "
          << '\n' << line << endl;
 
     cout << text << endl;

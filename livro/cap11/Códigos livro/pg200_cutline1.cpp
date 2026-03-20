@@ -1,11 +1,8 @@
 #include <iostream>
 #include <string>
 
-// Usamos std:: para evitar poluir o namespace global em projetos grandes
 using namespace std;
 
-// Protótipo: passamos por REFERÊNCIA (&) para modificar a string original
-// sem precisar de uma variável global e sem fazer uma cópia lenta.
 void cutline(string& s);
 
 int main() {
