@@ -13,7 +13,7 @@ namespace YourSpace{
     std::string mess = "Within namespace Yourspace";
 
     void f(){
-        std::cout << "Mess + 1";
+        std::cout << "Mess + 1\n";
         mess += '!';
     }
 }
