@@ -5,8 +5,10 @@ using namespace std;
 
 float x = 10.7F;
 
+
 int main(){
-    const float rx = x;
+    float *rx;
+    rx = &x;
 
     cout << "rx = " << rx << " and x = " << x << endl;
 
