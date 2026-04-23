@@ -19,9 +19,9 @@ O projeto está organizado da seguinte forma:
     * `Exercícios`: Problemas propostos ao final de cada capítulo.
 
 ## 🛠️ Tecnologias e Ferramentas
-* **Linguagem:** C++ (Padrão C++11 ou superior).
-* **Ambiente:** VS Code.
-* **Compilador:** GCC/G++ (MinGW ou similar).
+* **Linguagem:** C++
+* **Ambiente de Desenvolvimento (IDE):** VS Code.
+* **Compilador:** GCC/G++ 13.3.0
 * **Versionamento:** Git & GitHub.
 
 ## 🚀 Como Executar
