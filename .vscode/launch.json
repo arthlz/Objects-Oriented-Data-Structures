@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/arthlz/Documentos/programar/c++/EDOO/Objects-Oriented-Data-Structures/livro/cap17",
-      "program": "/home/arthlz/Documentos/programar/c++/EDOO/Objects-Oriented-Data-Structures/livro/cap17/build/Debug/outDebug",
+      "cwd": "/home/arthlz/Documentos/programar/c++/EDOO/Objects-Oriented-Data-Structures/testes aleatorios/testesponteiros",
+      "program": "/home/arthlz/Documentos/programar/c++/EDOO/Objects-Oriented-Data-Structures/testes aleatorios/testesponteiros/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
