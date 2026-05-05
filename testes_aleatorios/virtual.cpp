@@ -40,6 +40,10 @@ int main(){
     Square s(7);
     Rectangle r(2,3);
 
+    Square* sptr = &r;
+
+    sptr->print();
+
     foo(s);
     foo(r); // that's also possible, 'cause the rectangle is a square too, beacuse of polymorphism
 
