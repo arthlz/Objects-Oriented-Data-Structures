@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/arthlz/Documentos/programar/c++/EDOO/Objects-Oriented-Data-Structures/APS/AP6/questao1",
-      "program": "/home/arthlz/Documentos/programar/c++/EDOO/Objects-Oriented-Data-Structures/APS/AP6/questao1/build/Debug/outDebug",
+      "cwd": "/home/arthlz/Documentos/programar/c++/EDOO/Objects-Oriented-Data-Structures/lista_exercicio/Exercicio1",
+      "program": "/home/arthlz/Documentos/programar/c++/EDOO/Objects-Oriented-Data-Structures/lista_exercicio/Exercicio1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
