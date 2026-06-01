@@ -1,3 +1,16 @@
+class ListNode{
+    public:
+        int dado;
+        ListNode *next;
+
+        ListNode(int val){
+            dado = val;
+            next = nullptr;
+        }
+
+};
+
+
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
