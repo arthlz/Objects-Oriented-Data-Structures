@@ -1,4 +1,11 @@
 #include <iostream>
+struct Node{
+
+    int val;
+    Node* next;
+
+    Node(int val) : val(val), next(nullptr) {};
+};
 
 class Queue {
 private:
@@ -51,7 +58,7 @@ public:
             std::cerr << "Fila vazia.\n";
             return -1; 
         }
-        return frontNode->data;
+        return frontNode->val;
     }
 
     // Verificar se está vazia
