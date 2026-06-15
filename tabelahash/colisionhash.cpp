@@ -1,3 +1,7 @@
+#include <iostream>
+#include <string>
+#include <stdexcept>
+
 struct Node{
     int key;
     std::string value; // nome
