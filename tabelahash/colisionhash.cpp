@@ -67,7 +67,7 @@ class HashMap{
 
             while (current != nullptr){
                 if (current->key == key){
-                    if (prev = nullptr){
+                    if (prev == nullptr){
                         table[index] = current->next;
                     }else{
                         prev->next = current->next;
