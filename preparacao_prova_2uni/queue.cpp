@@ -40,6 +40,9 @@ class Queue{
         this->size--;
         current = nextNode;
       }
+      
+      front = nullptr;
+      rear = nullptr;
     }
 
     bool isEmpty(){
