@@ -40,7 +40,7 @@ class Queue{
         this->size--;
         current = nextNode;
       }
-      
+
       front = nullptr;
       rear = nullptr;
     }
@@ -65,7 +65,7 @@ class Queue{
 
     int dequeue(){ // tira do início da fila
       if (isEmpty()){
-        throw new runtime_error("Empty queue\n");
+        throw runtime_error("Empty queue\n");
       }
 
       Node* temp = front;
