@@ -73,7 +73,7 @@ class LinkedList{
 
       Node* curr = head;
 
-      while (curr != nullptr && curr->next->data != val){
+      while (curr->next != nullptr && curr->next->data != val){
         curr = curr->next;
       }
 
